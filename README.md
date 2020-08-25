@@ -5,11 +5,11 @@ I'm a first year PhD student in Computer Science at the University of Michigan. 
 
 ### Education
 MSE in Biomedical Engineering, 2019-2020
-> Focus in Biomedical Data Science
+> Focus in Biomedical Data Science    
 > Johns Hopkins University, Baltimore
 
 BS in Computer Science & Biomedical Engineering, 2016-2020
-> Minor in Applied Math and Statistics
+> Minor in Applied Math and Statistics    
 > Johns Hopkins University, Baltimore
 
 ### Projects
