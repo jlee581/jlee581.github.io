@@ -6,7 +6,7 @@ I'm a first year PhD student in [Computer Science](https://cse.engin.umich.edu/)
 
 Here is my [CV](Lee-JungMin-CV.pdf). 
 
-# Education
+## Education
 **MSE in Biomedical Engineering, 2020**   
   Focus in Biomedical Data Science    
   Johns Hopkins University, Baltimore
@@ -15,4 +15,4 @@ Here is my [CV](Lee-JungMin-CV.pdf).
   Minor in Applied Math and Statistics    
   Johns Hopkins University, Baltimore
 
-# Projects
+## Projects
