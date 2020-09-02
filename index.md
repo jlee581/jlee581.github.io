@@ -15,4 +15,3 @@ Here is my [CV](Lee-JungMin-CV.pdf).
   Minor in Applied Math and Statistics    
   Johns Hopkins University, Baltimore
 
-## Projects
